@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.avatar-img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.school-crest {
+width: 50px;}
+
+a:hover {
+  opacity: 0.5;
+}
+
+.container {
+   background: white;
+   filter: drop-shadow(0 0 0.75rem gray);
+   padding: 2%;
+   margin: 5%;
+}
+
+
+.avatar-container {
+text-align: center;
+padding: 2%;
+}
+
+#left-column {
+padding-left: 10%;}
