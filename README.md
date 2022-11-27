@@ -76,6 +76,6 @@ Kelsey Christensen
 - [Dribble](https://dribbble.com/kelseychristensen "Dribbble")
 - [Website](http://kelseychristensen.com/ "GitHub")
 
-##Acknowledgments
+## Acknowledgments
 
 The image comes from Unsplash. Thank you to Leio McLaren.
