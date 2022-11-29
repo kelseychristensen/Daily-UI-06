@@ -8,7 +8,7 @@ The prompt was to create a user profile for any kind of site (e.g. professional,
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-06.git "Daily-UI-06 Repo")
-- [Dribbble](https://dribbble.com/shots/19998366-Daily-UI-Day-06-User-Profile "Daily-UI-06 Dribbble Snapshot")
+- [Dribbble](https://dribbble.com/shots/20017778-Daily-UI-Day-006-Professional-User-Profile "Daily-UI-06 Dribbble Snapshot")
 
 
 ## Screenshots
